@@ -12,7 +12,9 @@ Configuration properties:
 - position: Defines start position of slider. Possible values are bottom_left and bottom_right. Default value is bottom_right.
 - showOnStart: Defines do you want to show/ animate slider on page load. Default value is 0 which means do not animate slide on page load.
 
-Usage example:
+## Usage example
+
+```js
 <script type="text/javascript">
    imPopupSlider.show({
       width: 500,
@@ -22,3 +24,6 @@ Usage example:
       imageUrl: 'example.jpg'
    });
 </script>
+```
+
+For more details please look at examples directory.

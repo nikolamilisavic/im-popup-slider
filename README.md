@@ -1,9 +1,9 @@
-Instant Message Popup Slider
+## Instant Message Popup Slider
 
 Library depends on jQuery so first be sure that jQuery is included before using plugin.
 In order to use this library all what you need to do is to include library / plugin and call function to show slider.
 
-Configuration properties:
+## Configuration properties:
 - title: Presents text which will be shown on slider
 - clickUrl: Presents target URL where user will be redirected after clicking on slider
 - imageUrl: Presents URL of image which will be shown in slider

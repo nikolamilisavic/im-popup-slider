@@ -1,0 +1,22 @@
+body, html {
+   height: 100%;
+}
+
+body {
+   margin: 0;
+}
+
+.banner-background {
+   background-image: url('../images/background-bottom-right.jpg');
+   height: inherit;
+}
+
+.banner-description {
+   position: absolute;
+   transform: translate(-50%, -50%);
+   top: 15%;
+   left: 50%;
+   font-size: 35px;
+   font-weight: bold;
+   color: #fff;
+}
